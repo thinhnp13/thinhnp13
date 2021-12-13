@@ -1,5 +1,5 @@
 <h2 align="center">Overview <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<h1 align="center">Hi 👋, I'm Nguyen Van Hiep <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h1>
+<h1 align="center">Hi 👋, I'm Nguyen Phu Thinh <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h1>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=thinhnp13" alt="thinhnp13" /></p>
 
 <h3 align="left">👨‍💻 Languages and Frameworks:</h3>
